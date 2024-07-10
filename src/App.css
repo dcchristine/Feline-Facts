@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Ultra&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&family=Ultra&display=swap');
+
+.ultra {
+   font-family: "Ultra", serif;
+}
+
+.pt-serif {
+   font-family: "PT Serif", sans-serif;
+}
+
+::-webkit-scrollbar{
+   width: 20px;
+ 
+}
+::-webkit-scrollbar-thumb{
+   border-radius: 999px;
+   background-color: #973131;
+}
+
+::-webkit-scrollbar-track{
+   background-color: #E0A75E;
+}
